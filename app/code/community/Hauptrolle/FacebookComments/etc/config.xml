@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Hauptrolle_FacebookComments>
+            <version>1.0.0</version>
+        </Hauptrolle_FacebookComments>
+    </modules>
+
+    <frontend>
+        <layout>
+            <updates>
+                <hauptrolle_facebookcomments>
+                    <file>hauptrolle_facebookcomments.xml</file>
+                </hauptrolle_facebookcomments>
+            </updates>
+        </layout>
+    </frontend>
+
+    <global>
+        <models>
+            <hauptrolle_facebookcomments>
+                <class>Hauptrolle_FacebookComments_Model</class>
+            </hauptrolle_facebookcomments>
+        </models>
+        <helpers>
+            <hauptrolle_facebookcomments>
+                <class>Hauptrolle_FacebookComments_Helper</class>
+            </hauptrolle_facebookcomments>
+        </helpers>
+    </global>
+</config>

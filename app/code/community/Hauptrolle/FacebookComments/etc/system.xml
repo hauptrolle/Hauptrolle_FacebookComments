@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+        <sections>
+            <hauptrolle translate="label" module="hauptrolle_facebookcomments">
+                <label>Hauptrolle Facebook Comments</label>
+                <tab>catalog</tab>
+                <sort_order>1000</sort_order>
+                <show_in_default>1</show_in_default>
+                <show_in_website>1</show_in_website>
+                <show_in_store>1</show_in_store>
+                <groups>
+                    <facebook_comments translate="label" module="hauptrolle_facebookcomments">
+                        <label>Facebook Comments</label>
+                        <frontend_type>text</frontend_type>
+                        <sort_order>1000</sort_order>
+                        <show_in_default>1</show_in_default>
+                        <show_in_website>1</show_in_website>
+                        <show_in_store>1</show_in_store>
+                        <fields>
+                            <app_id translate="label">
+                                <label>App ID</label>
+                                <comment>Your Facebook App Id</comment>
+                                <frontend_type>text</frontend_type>
+                                <sort_order>20</sort_order>
+                                <show_in_default>1</show_in_default>
+                                <show_in_website>1</show_in_website>
+                                <show_in_store>1</show_in_store>
+                            </app_id>
+                            <app_width translate="label">
+                                <label>Width</label>
+                                <comment>The width of the Plugin in pixels</comment>
+                                <frontend_type>text</frontend_type>
+                                <sort_order>30</sort_order>
+                                <show_in_default>1</show_in_default>
+                                <show_in_website>1</show_in_website>
+                                <show_in_store>1</show_in_store>
+                            </app_width>
+                            <app_max translate="label">
+                                <label>Number of posts</label>
+                                <comment>The number of poststo display by default</comment>
+                                <frontend_type>text</frontend_type>
+                                <sort_order>40</sort_order>
+                                <show_in_default>1</show_in_default>
+                                <show_in_website>1</show_in_website>
+                                <show_in_store>1</show_in_store>
+                            </app_max>
+                        </fields>
+                    </facebook_comments>
+                </groups>
+            </hauptrolle>
+        </sections>
+</config>
