@@ -1,0 +1,4 @@
+app/code/community/Hauptrolle/FacebookComments/ app/code/community/Hauptrolle/FacebookComments/
+app/design/frontend/base/default/layout/hauptrolle_facebookcomments.xml app/design/frontend/base/default/layout/hauptrolle_facebookcomments.xml
+app/design/frontend/base/default/templates/hauptrolle/facebookcomments app/design/frontend/base/default/templates/hauptrolle/facebookcomments
+app/etc/modules/Hauptrolle_FacebookComments.xml app/etc/modules/Hauptrolle_FacebookComments.xml
