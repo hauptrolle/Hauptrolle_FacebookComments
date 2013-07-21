@@ -1,1 +1,1 @@
-Add Facebook Comments to Magneto Product View
+Add Facebook Comments to Magento Product View
