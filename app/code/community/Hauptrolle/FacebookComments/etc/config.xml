@@ -17,11 +17,6 @@
     </frontend>
 
     <global>
-        <models>
-            <hauptrolle_facebookcomments>
-                <class>Hauptrolle_FacebookComments_Model</class>
-            </hauptrolle_facebookcomments>
-        </models>
         <helpers>
             <hauptrolle_facebookcomments>
                 <class>Hauptrolle_FacebookComments_Helper</class>
