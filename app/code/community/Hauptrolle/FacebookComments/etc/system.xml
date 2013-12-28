@@ -43,7 +43,7 @@
                         </app_width>
                         <app_max translate="label">
                             <label>Number of posts</label>
-                            <comment>The number of poststo display by default</comment>
+                            <comment>The number of posts to display by default</comment>
                             <frontend_type>text</frontend_type>
                             <sort_order>40</sort_order>
                             <show_in_default>1</show_in_default>
